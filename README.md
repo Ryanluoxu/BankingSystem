@@ -101,18 +101,18 @@ Two actors: `Admin` and `Customer`
     - Apply Credit Card
     
     ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/2.6%20Apply%20Credit%20Card.jpg)
-    
+        
         - Pay Credit Card
-        
-        ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/2.6.1%20Pay%20Credit%20Card%20Bill.jpg)
-        
+
+    ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/2.6.1%20Pay%20Credit%20Card%20Bill.jpg)
+
         - View Redeem Points
-        
-        ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/2.6.2%20View%20Redeem%20Points.jpg)
-        
+
+    ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/2.6.2%20View%20Redeem%20Points.jpg)
+
         - View Credit Transaction
-        
-        ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/2.6.3%20View%20Credit%20Transaction.jpg)
+
+    ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/2.6.3%20View%20Credit%20Transaction.jpg)
         
 
 ### Entity Relationship diagram
