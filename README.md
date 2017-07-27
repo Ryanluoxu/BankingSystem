@@ -40,13 +40,27 @@ Two actors: `Admin` and `Customer`
 ![](/picture/Colored%20Class%20Diagram.jpg)
 
 ### Sequence diagram
-1. Login
+- Login
 
-2. Admin
-    2.1 Admin Menu
-    2.2 Create Bank Account
+- Admin
+    - Admin Menu
+    - Create Bank Account
+    - Check Request
+    - Unlock Account
+    - Approve Credit Card Application
 
-3. Customer
+- Customer
+    - 1st Login Change Password
+    - Customer Menu
+    - Update Customer Details
+    - Check Balance
+    - Deposit
+    - Withdraw
+    - View Transaction
+    - Apply Credit Card
+        - Pay Credit Card
+        - View Redeem Points
+        - View Credit Transaction
 
 ### Entity Relationship diagram
 
