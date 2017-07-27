@@ -15,20 +15,19 @@ Two actors: `Admin` and `Customer`
     - Approve credit card application
 
 ### Customer
-> 
-Change password for 1st time login
-Account locks after 3 failed login attempts
-Update particulars
-Check balance / Deposit / Withdraw
-View last 5 account transactions
-Credit card
-Apply
-Bill payment
-View redeem points
-Last 5 credit card transactions
-
+- Change password for 1st time login
+- Account locks after 3 failed login attempts
+- Update particulars
+- Check balance / Deposit / Withdraw
+- View last 5 account transactions
+- Credit card
+    - Apply
+    - Bill payment
+    - View redeem points
+    - Last 5 credit card transactions
 
 ## UML Diagrams
+
 
 ## Coding
 
