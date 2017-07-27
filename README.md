@@ -27,6 +27,18 @@ Two actors: `Admin` and `Customer`
     - Last 5 credit card transactions
 
 ## UML Diagrams
+### Use case diagram
+
+### Activity diagram
+
+### Class diagram
+
+### Sequence diagram
+
+### Entity Relationship diagram
+
+### Deployment diagram
+
 
 
 ## Coding
