@@ -40,6 +40,13 @@ Two actors: `Admin` and `Customer`
 ![](/picture/Colored%20Class%20Diagram.jpg)
 
 ### Sequence diagram
+- Login
+
+1. Admin
+    1.0 Admin Menu
+    1.1 Create Bank Account
+
+2. Customer
 
 ### Entity Relationship diagram
 
