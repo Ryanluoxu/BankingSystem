@@ -28,10 +28,16 @@ Two actors: `Admin` and `Customer`
 
 ## UML Diagrams
 ### Use case diagram
+![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Use%20Case%20Diagram.jpg)
 
 ### Activity diagram
+- Admin
+![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Administrator%20Activity%20Diagram.jpg)
+- Customer
+![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Customer%20Activity.jpg)
 
 ### Class diagram
+![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Colored%20Class%20Diagram.jpg)
 
 ### Sequence diagram
 
