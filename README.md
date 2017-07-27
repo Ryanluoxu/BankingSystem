@@ -114,7 +114,6 @@ Two actors: `Admin` and `Customer`
 
     ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/2.6.3%20View%20Credit%20Transaction.jpg)
     
-            dddddd
         
 
 ### Entity Relationship diagram
