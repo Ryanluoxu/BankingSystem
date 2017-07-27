@@ -38,6 +38,9 @@ Two actors: `Admin` and `Customer`
 
 ### Class diagram
 ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Colored%20Class%20Diagram.jpg)
+![](/picture/Class%20Diagram%201.jpg)
+
+https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Class%20Diagram%201.jpg
 
 ### Sequence diagram
 
