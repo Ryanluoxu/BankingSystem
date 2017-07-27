@@ -44,6 +44,7 @@ Two actors: `Admin` and `Customer`
     ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Login%20Sequence%20Diagram.jpg)
 - Admin
     - Admin Menu
+    
     ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/1.0%20Admin%20Menu.jpg)
     - Create Bank Account
     ![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/1.1%20Create%20Bank%20Account.jpg)
