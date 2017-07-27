@@ -32,15 +32,12 @@ Two actors: `Admin` and `Customer`
 
 ### Activity diagram
 - Admin
-![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Administrator%20Activity%20Diagram.jpg)
+![](/picture/Administrator%20Activity%20Diagram.jpg)
 - Customer
-![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Customer%20Activity.jpg)
+![](/picture/Customer%20Activity.jpg)
 
 ### Class diagram
-![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Colored%20Class%20Diagram.jpg)
-![](/picture/Class%20Diagram%201.jpg)
-
-https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/Class%20Diagram%201.jpg
+![](/picture/Colored%20Class%20Diagram.jpg)
 
 ### Sequence diagram
 
