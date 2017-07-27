@@ -117,6 +117,7 @@ Two actors: `Admin` and `Customer`
         
 
 ### Entity Relationship diagram
+![](https://github.com/Ryanluoxu/BankingSystem/blob/master/picture/ER%20Diagram.jpg)
 
 ### Deployment diagram
 
